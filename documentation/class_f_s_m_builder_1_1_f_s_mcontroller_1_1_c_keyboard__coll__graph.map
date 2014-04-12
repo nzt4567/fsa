@@ -1,0 +1,5 @@
+<map id="FSMBuilder.FSMcontroller.CKeyboard" name="FSMBuilder.FSMcontroller.CKeyboard">
+<area shape="rect" id="node2" href="$class_f_s_m_builder_1_1_f_s_mview_1_1_view.html" title="FSMBuilder.FSMview.View" alt="" coords="665,36,844,63"/>
+<area shape="rect" id="node4" href="$class_f_s_m_builder_1_1_f_s_mfunctions_1_1simulator_1_1_csimulator.html" title="FSMBuilder.FSMfunctions.simulator.\lCsimulator" alt="" coords="637,150,872,191"/>
+<area shape="rect" id="node5" href="$class_f_s_m_builder_1_1_f_s_mmodel_1_1_cmodel.html" title="FSMBuilder.FSMmodel.Cmodel" alt="" coords="339,88,544,115"/>
+</map>
