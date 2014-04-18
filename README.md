@@ -19,7 +19,11 @@ Use gradle to build. Controls:
 	- Down arrow: reset simulation
 	- L-Click into state = select that state
 	- L-Click into canvas = deselect selected state
-	- L-Click into state after some other state is selected = create transition 
+	- L-Click into state after some other state is selected = create transition
+	- 'e' = export canvas as png
+	- 'x' = export FSA to LaTeX
+	- 's' = save FSA to file
+	- 'l' = load FSA from file
 
 
 warning
