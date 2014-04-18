@@ -7,6 +7,7 @@ Simple FSA (with epsilon transitions) simulator. This is not finished. Use '*' i
 usage
 ===
 Use gradle to build. Controls:
+
 	- Ctrl + L-Click = create start state
 	- Shift + L-Click = create accept state
 	- Alt + L-Click = create normal state
