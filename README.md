@@ -17,6 +17,9 @@ Use gradle to build. Controls:
 	- Alt + L-Click into state or onto transition = edit it's label
 	- Left arrow: one step forward in simulation
 	- Down arrow: reset simulation
+	- L-Click into state = select that state
+	- L-Click into canvas = deselect selected state
+	- L-Click into state after some other state is selected = create transition 
 
 
 warning
